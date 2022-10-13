@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.valtech.training.valtech_junit5.ArithmeticTest$SubtractionTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 s - in com.valtech.training.valtech_junit5.ArithmeticTest$SubtractionTest

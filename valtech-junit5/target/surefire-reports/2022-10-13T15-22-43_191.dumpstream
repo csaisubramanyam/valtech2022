@@ -1,0 +1,5 @@
+# Created at 2022-10-13T15:22:44.418
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Training\valtechnew\valtech2022\valtech-junit5\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
